@@ -1,0 +1,16 @@
+.myBtn{
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none;
+    transition: 0.3s;
+}
+
+.myBtn:hover{
+    transform: scale(1.02);
+}
+
+.ape{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
